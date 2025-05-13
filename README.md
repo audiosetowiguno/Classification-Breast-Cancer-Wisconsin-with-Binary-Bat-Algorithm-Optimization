@@ -1,2 +1,3 @@
 # Classification Breast Cancer Wisconsin with Binary Bat Algorithm Optimization
-Used Binary Bat Algorithm to select features and improve classification models, achieving ~20% higher performance.
+
+Breast cancer is one of the frequently diagnosed types of cancer in women. It occurs due to the aberrant growth of cells that have lost their normal control mechanisms, leading to abnormal, rapid, and uncontrolled growth. Breast cancer is considered a leading cause of death worldwide, with an estimated 8.2 million deaths. This mortality rate can be reduced by enhancing awareness, prediction, and early diagnosis by medical professionals. Accurate prediction and diagnosis results can ensure that medical interventions are tailored to the patient's condition. Therefore, this project aims to develop a classification model for breast cancer patients using the Logistic Regression, Random Forest, and MLP Classifier methods, coupled with Binary Bat Algorithm for feature selection.
