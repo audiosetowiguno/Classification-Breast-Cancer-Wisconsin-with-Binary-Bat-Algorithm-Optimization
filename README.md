@@ -1,4 +1,4 @@
-# 🧠 Classification Breast Cancer Wisconsin with Binary Bat Algorithm Optimization
+# 🧠🦇 Classification Breast Cancer Wisconsin with Binary Bat Algorithm Optimization
 
 ## 📍 Introduction
 Breast cancer is one of the frequently diagnosed types of cancer in women. It occurs due to the aberrant growth of cells that have lost their normal control mechanisms, leading to abnormal, rapid, and uncontrolled growth. Breast cancer is considered a leading cause of death worldwide, with an estimated 8.2 million deaths. This mortality rate can be reduced by enhancing awareness, prediction, and early diagnosis by medical professionals. Accurate prediction and diagnosis results can ensure that medical interventions are tailored to the patient's condition. Therefore, this project aims to develop a classification model for breast cancer patients using the Logistic Regression, Random Forest, and MLP Classifier methods, coupled with Binary Bat Algorithm for feature selection. 
@@ -23,11 +23,11 @@ In this project, I employ the Binary Bat Algorithm for feature selection to comp
   - Data Transformation
   - Handling Outlier
 
-## Conclusion After Apply Binary Bat Algorithm for each classification
+## ⚙️ Conclusion After Apply Binary Bat Algorithm for each classification
 
 From the three classifications using Binary Bat Algorithm optimization, 19 best features were obtained with the highest accuracy rate in the MLP Classifier model, achieving a training accuracy of 97.7% and a test accuracy of 99.1%. The selected best features are as follows: [`radius_mean`, `perimeter_mean`, `concave points_mean`, `symmetry_mean`, `fractal_dimension_mean`, `radius_se`, `texture_se`, `perimeter_se`, `smoothness_se`, `concavity_se`, `concave points_se`, `symmetry_se`, `fractal_dimension_se`, `radius_worst`, `texture_worst`, `area_worst`, `smoothness_worst`, `concavity_worst`, `symmetry_worst`].
 
-  - Using Correlation Function
+### 📉 Using Correlation Function
 Evaluation table in the study by V. Nanda Gopal et al. (2021) using correlation function.
 
 | Evaluation | Random Forest | Logistic Regression | MLP Classifier |
@@ -37,7 +37,7 @@ Evaluation table in the study by V. Nanda Gopal et al. (2021) using correlation 
 | F1-Score   | 92%   | 78%   | 96%   |
 | Accuracy    | 95%   | 79%   | 98%   |
 
-  - Using Binary Bat Algorithm
+### 🦇 Using Binary Bat Algorithm
 Evaluation table using Binary Bat Algorithm Optimization.
 
 | Evaluation | Random Forest | Logistic Regression | MLP Classifier |
