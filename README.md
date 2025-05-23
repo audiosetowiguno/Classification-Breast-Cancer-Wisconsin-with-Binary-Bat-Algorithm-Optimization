@@ -1,4 +1,4 @@
-# 🧠🦇 Classification Breast Cancer Wisconsin with Binary Bat Algorithm Optimization
+# 🧠🦇 [Classification Breast Cancer Wisconsin with Binary Bat Algorithm Optimization](https://colab.research.google.com/drive/1KDdnuwmXx5TNjlYQYi01MmXn1lkHASkg?usp=sharing)
 
 ## 📍 Introduction
 Breast cancer is one of the frequently diagnosed types of cancer in women. It occurs due to the aberrant growth of cells that have lost their normal control mechanisms, leading to abnormal, rapid, and uncontrolled growth. Breast cancer is considered a leading cause of death worldwide, with an estimated 8.2 million deaths. This mortality rate can be reduced by enhancing awareness, prediction, and early diagnosis by medical professionals. Accurate prediction and diagnosis results can ensure that medical interventions are tailored to the patient's condition. Therefore, this project aims to develop a classification model for breast cancer patients using the Logistic Regression, Random Forest, and MLP Classifier methods, coupled with Binary Bat Algorithm for feature selection. 
@@ -17,6 +17,7 @@ In the previous research by V.Nanda Gopal et all (2021), the correlation functio
 ## 📍 Objective
 In this project, I employ the Binary Bat Algorithm for feature selection to compare its evaluation with the results obtained in the previous research. This enables us to determine the superior feature selection method between the Binary Bat Algorithm and the Correlation Function. 
 
+Link Code : [Google Colab](https://colab.research.google.com/drive/1KDdnuwmXx5TNjlYQYi01MmXn1lkHASkg?usp=sharing)
 ## 🧪 Data Preprocessing
   - Handling Missing Values
   - Label Encoder (Target)
